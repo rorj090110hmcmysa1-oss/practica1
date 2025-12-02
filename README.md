@@ -1,2 +1,2 @@
 # practica1
-es mi primera vez
+es mi primera practica de github esperando que este bien
